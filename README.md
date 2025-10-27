@@ -1,4 +1,4 @@
-# 🧠 PrivateGPT – Local AI Document Q&A System
+# PrivateGPT – Local AI Document Q&A System
 
 A **secure, local, and privacy-friendly AI system** that lets you ask questions directly about your own documents — powered by **PrivateGPT** and local Large Language Models (LLMs).  
 All data processing happens **100% offline** — ensuring complete privacy and control over your data.
@@ -11,6 +11,10 @@ All data processing happens **100% offline** — ensuring complete privacy and c
 - ✅ Uses embeddings and vector databases for accurate retrieval  
 - ✅ Supports multiple LLM backends (GPT4All, Llama, Mistral, etc.)  
 - ✅ Privacy-first: your documents never leave your machine  
+
+---
+
+<img width="1536" height="962" alt="PrivateGPT Sc simple" src="https://github.com/user-attachments/assets/fb6d89dd-9908-4f3a-b551-1ac75e5fd6d3" />
 
 ---
 
@@ -85,4 +89,4 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 **Mohamad Aub**  
 🌐 [GitHub Profile](https://github.com/MohamadAub)  
-📧 *youremail@example.com*
+📧 *mmelayoubii@gmail.com*
