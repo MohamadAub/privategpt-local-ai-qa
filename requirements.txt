@@ -1,0 +1,14 @@
+langchain
+chromadb
+sentence-transformers
+faiss-cpu
+gpt4all
+llama-cpp-python
+openai
+tiktoken
+pypdf
+docx2txt
+streamlit
+fastapi
+uvicorn
+python-dotenv
